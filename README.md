@@ -3,12 +3,14 @@
 
 
 
+<title>flashcard</title>
+</heat>
+<body>
+<main>
+     <section id="conteiner">
+<article class="cartao">/
 
-
-
-
-<section id="conteiner">
-<article>/
+<article>
 <section>
 </main>
 </footer>
